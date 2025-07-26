@@ -10,6 +10,7 @@ To learn more before you start working with `GreenCoin`, see the following docum
 - [SDK Developer Tools](https://internetcomputer.org/docs/current/developer-docs/setup/install)
 - [Motoko Programming Language Guide](https://internetcomputer.org/docs/current/motoko/main/motoko)
 - [Motoko Language Quick Reference](https://internetcomputer.org/docs/current/motoko/main/language-manual)
+- [Greencoin Carbon Documentation](https://drewgalowaydev.github.io/carbondocs/)
 
 If you want to start working on your project right away, you might want to try the following commands:
 
