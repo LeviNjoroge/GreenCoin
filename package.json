@@ -14,5 +14,9 @@
   "type": "module",
   "workspaces": [
     "src/GreenCoin_frontend"
-  ]
+  ],
+  "devDependencies": {
+    "@types/testing-library__jest-dom": "^6.0.0",
+    "vite": "^7.0.6"
+  }
 }
