@@ -63,40 +63,55 @@
 </div>
 
 <table align="center">
-<tr>
-<td align="center" width="50%">
+  <tr>
+    <td align="center" width="33%">
 
-### 👨‍💻 **Levi Njoroge**
+### 👨‍💻 **Levi Njoroge**  
 **Lead Blockchain Developer**
 
 🎓 **Senior Full Stack Developer** at IMS Guru  
 🏆 **Expertise**: C#, ASP.NET Core, Python, Flask, Cloud Solutions  
 🌍 **Focus**: Backend Architecture & Smart Contract Development  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kimani-levi/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/LeviNjoroge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kimani-levi/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/LeviNjoroge)  
 
 *"Delivering high-quality, practical solutions tailored to meet diverse business needs with extensive knowledge of all major programming languages."*
 
 </td>
-<td align="center" width="50%">
+<td align="center" width="33%">
 
-### 👨‍💻 **Robinson Otochi**
-**Full Stack Developer & Climate-Tech Specialist**
+### 👨‍💻 **Robinson Otochi**  
+**Software Engineer & Agri-Climate specialist PHP Laravel Developer**
 
-🎓 **Bachelor's in Software Engineering** - Kisii University  
-🤖 **Bachelor's in Robotics & Automation** - JKUAT  
+🎓 **Bachelor's in Software Engineering** – Kisii University  
+🤖 **Bachelor's in Robotics & Automation** – JKUAT  
 🌱 **Focus**: Frontend Development & Climate Solutions  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/robinson-otochi)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/DrewGalowayDev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=web)](https://drewgalowaydev.github.io/robinsoncv/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/robinson-otochi)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/DrewGalowayDev)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=web)](https://drewgalowaydev.github.io/robinsoncv/)  
+
+*"A passionate developer driven by impact — building multi-versated projects & systems handling full stack web development, AI, at the intersection of software engineering, blockchain for social good."*
+
+</td>
+<td align="center" width="33%">
+
+### 👨‍💻 **Joseph Chacha**  
+**Full Stack Developer & Cybersecurity Expert**
+
+🎓 **Bachelor's in Software Engineering** – Kisii University  
+🛡️ **Focus**: Cybersecurity, Frontend Dev & Climate Tech  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/josephchacha)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/inognito123)  
 
 *"Passionate about creating accessible, user-friendly applications that solve real-world problems for African communities."*
 
 </td>
-</tr>
+  </tr>
 </table>
+
 
 ---
 
